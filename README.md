@@ -1,4 +1,4 @@
-#### **My R repositories** ###
+#### **My R repositories:** ###
 
 * [constantsR](https://github.com/MartinMSPedersen/constantsR)
 * [drommekage](https://github.com/SuperUsersDK/drommekage)
