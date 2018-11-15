@@ -2,6 +2,7 @@
 
 * [constantsR](https://github.com/MartinMSPedersen/constantsR)
 * [drommekage](https://github.com/SuperUsersDK/drommekage)
+* [ExpSumR](https://github.com/MartinMSPedersen/ExpSumR)
 * [folkeafstemninger](https://github.com/MartinMSPedersen/folkeafstemninger)
 * [Lottotal](https://github.com/MartinMSPedersen/Lottotal)
 * [noiseR](https://github.com/MartinMSPedersen/noiseR)
