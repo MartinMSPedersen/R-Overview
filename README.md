@@ -5,6 +5,7 @@
 * [ExpSumR](https://github.com/MartinMSPedersen/ExpSumR)
 * [folkeafstemninger](https://github.com/MartinMSPedersen/folkeafstemninger)
 * [Lottotal](https://github.com/MartinMSPedersen/Lottotal)
+* [noisyCircles](https://gist.github.com/MartinMSPedersen/fe2cf650e51c8fdf1c0a9dc75dbf10cc)
 * [noiseR](https://github.com/MartinMSPedersen/noiseR)
 * [OEIS](https://github.com/MartinMSPedersen/OEIS)
 * [PlayingCardsR](https://github.com/MartinMSPedersen/PlayingCardsR)
