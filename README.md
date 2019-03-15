@@ -1,6 +1,7 @@
 #### **My R repositories and R gist:** ###
 
 * [constantsR](https://github.com/MartinMSPedersen/constantsR)
+* [dequer](https://github.com/MartinMSPedersendequer)
 * [drommekage](https://github.com/SuperUsersDK/drommekage)
 * [ExpSumR](https://github.com/MartinMSPedersen/ExpSumR)
 * [folkeafstemninger](https://github.com/MartinMSPedersen/folkeafstemninger)
