@@ -10,6 +10,7 @@
 * [noiseR](https://github.com/MartinMSPedersen/noiseR)
 * [OEIS](https://github.com/MartinMSPedersen/OEIS)
 * [PlayingCardsR](https://github.com/MartinMSPedersen/PlayingCardsR)
+* [[Polygon](https://gist.github.com/MartinMSPedersen/6e5a9aa182d49d196ab5bc7c1d4e26c6)
 * [R-OOP](https://github.com/MartinMSPedersen/R-OOP)
 * [StrangeAttractors](https://github.com/MartinMSPedersen/StrangeAttractors)
 * [Strange Hat 3](https://gist.github.com/MartinMSPedersen/f36aad4cd9a3e238c24f6e4dbbf044d1)
