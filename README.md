@@ -1,5 +1,6 @@
 #### **My R repositories and R gist:** ###
 
+* [Compute PI](https://gist.github.com/MartinMSPedersen/f46742325838f330a33001e938fc905e)
 * [constantsR](https://github.com/MartinMSPedersen/constantsR)
 * [dequer](https://github.com/MartinMSPedersen/dequer)
 * [drommekage](https://github.com/SuperUsersDK/drommekage)
@@ -17,4 +18,3 @@
 * [Three Circles](https://gist.github.com/MartinMSPedersen/c5c3a51ffbca8b8a9297652d2aba8d9a)
 * [Yavalath Board](https://gist.github.com/MartinMSPedersen/19d847f2de53fa81299a90c0378ac208)
 * [Pentalath Board](https://gist.github.com/MartinMSPedersen/f53315b4b749a75a37463b10068e7930)
-* [Compute PI](https://gist.github.com/MartinMSPedersen/f46742325838f330a33001e938fc905e)
