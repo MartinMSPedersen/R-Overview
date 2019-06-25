@@ -9,7 +9,6 @@
 * [noiseR](https://github.com/MartinMSPedersen/noiseR)
 * [OEIS](https://github.com/MartinMSPedersen/OEIS)
 * [PlayingCardsR](https://github.com/MartinMSPedersen/PlayingCardsR)
-* [R-OOP](https://github.com/MartinMSPedersen/R-OOP)
 * [StrangeAttractors](https://github.com/MartinMSPedersen/StrangeAttractors)
 
 #### **My R gists:** ####
