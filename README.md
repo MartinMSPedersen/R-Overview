@@ -13,6 +13,7 @@
 
 #### **My R gists:** ####
 
+* [Chess 960](https://gist.github.com/MartinMSPedersen/f729c4f68633b23e7594aa51770defc7)
 * [Compute PI](https://gist.github.com/MartinMSPedersen/f46742325838f330a33001e938fc905e)
 * [noisyCircles](https://gist.github.com/MartinMSPedersen/fe2cf650e51c8fdf1c0a9dc75dbf10cc)
 * [Pentalath Board](https://gist.github.com/MartinMSPedersen/f53315b4b749a75a37463b10068e7930)
