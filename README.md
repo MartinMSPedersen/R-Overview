@@ -20,6 +20,7 @@
 * [Pentalath Board](https://gist.github.com/MartinMSPedersen/f53315b4b749a75a37463b10068e7930)
 * [Permutation Game](https://gist.github.com/MartinMSPedersen/5d182d58738a50dc5cf7c7e2637bade5)
 * [Polygon](https://gist.github.com/MartinMSPedersen/6e5a9aa182d49d196ab5bc7c1d4e26c6)
+* [SetDiff](https://gist.github.com/MartinMSPedersen/78bf079be9c7da7ea0f813c67737ac08)
 * [Simple_RSA](https://gist.github.com/MartinMSPedersen/24e2543913aa9c77b4ea63aa9fbf2673)
 * [Strange Hat 3](https://gist.github.com/MartinMSPedersen/f36aad4cd9a3e238c24f6e4dbbf044d1)
 * [Three Circles](https://gist.github.com/MartinMSPedersen/c5c3a51ffbca8b8a9297652d2aba8d9a)
