@@ -10,6 +10,7 @@
 * [OEIS](https://github.com/MartinMSPedersen/OEIS)
 * [PlayingCardsR](https://github.com/MartinMSPedersen/PlayingCardsR)
 * [StrangeAttractors](https://github.com/MartinMSPedersen/StrangeAttractors)
+* [Take1](https://github.com/MartinMSPedersen/take1)
 
 #### **My R gists:** ####
 
