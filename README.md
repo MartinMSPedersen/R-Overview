@@ -1,5 +1,6 @@
 #### **My R repositories:** ###
 
+* [AroundLatvia](https://github.com/MartinMSPedersen/AroundLatvia)
 * [constantsR](https://github.com/MartinMSPedersen/constantsR)
 * [drommekage](https://github.com/SuperUsersDK/drommekage)
 * [ExpSumR](https://github.com/MartinMSPedersen/ExpSumR)
