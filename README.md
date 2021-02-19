@@ -1,8 +1,8 @@
 #### **My R repositories:** ###
 
-* [AroundLatvia](https://github.com/MartinMSPedersen/AroundLatvia)
+* [Around Latvia](https://github.com/MartinMSPedersen/AroundLatvia)
 * [constantsR](https://github.com/MartinMSPedersen/constantsR)
-* [drommekage](https://github.com/SuperUsersDK/drommekage)
+* [drømmekage](https://github.com/SuperUsersDK/drommekage)
 * [ExpSumR](https://github.com/MartinMSPedersen/ExpSumR)
 * [folkeafstemninger](https://github.com/MartinMSPedersen/folkeafstemninger)
 * [folketingsvalg](https://github.com/MartinMSPedersen/folketingsvalg)
@@ -10,9 +10,9 @@
 * [Mars Tornado](https://github.com/MartinMSPedersen/MarsTornado)
 * [noiseR](https://github.com/MartinMSPedersen/noiseR)
 * [OEIS](https://github.com/MartinMSPedersen/OEIS)
-* [PlayingCardsR](https://github.com/MartinMSPedersen/PlayingCardsR)
-* [StrangeAttractors](https://github.com/MartinMSPedersen/StrangeAttractors)
-* [Take1](https://github.com/MartinMSPedersen/take1)
+* [Playing Cards](https://github.com/MartinMSPedersen/PlayingCardsR)
+* [Strange Attractors](https://github.com/MartinMSPedersen/StrangeAttractors)
+* [Take 1](https://github.com/MartinMSPedersen/take1)
 
 #### **My R gists:** ####
 
