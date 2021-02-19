@@ -7,6 +7,7 @@
 * [folkeafstemninger](https://github.com/MartinMSPedersen/folkeafstemninger)
 * [folketingsvalg](https://github.com/MartinMSPedersen/folketingsvalg)
 * [Lottotal](https://github.com/MartinMSPedersen/Lottotal)
+* [Mars Tornado](https://github.com/MartinMSPedersen/MarsTornado)
 * [noiseR](https://github.com/MartinMSPedersen/noiseR)
 * [OEIS](https://github.com/MartinMSPedersen/OEIS)
 * [PlayingCardsR](https://github.com/MartinMSPedersen/PlayingCardsR)
