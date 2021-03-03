@@ -1,18 +1,16 @@
 #### **My R repositories:** ###
 
-* [Around Latvia](https://github.com/MartinMSPedersen/AroundLatvia)
 * [constantsR](https://github.com/MartinMSPedersen/constantsR)
 * [drømmekage](https://github.com/SuperUsersDK/drommekage)
 * [ExpSumR](https://github.com/MartinMSPedersen/ExpSumR)
 * [folkeafstemninger](https://github.com/MartinMSPedersen/folkeafstemninger)
 * [folketingsvalg](https://github.com/MartinMSPedersen/folketingsvalg)
+* [GenerativeR](https://github.com/MartinMSPedersen/GenerativeR)
 * [Lottotal](https://github.com/MartinMSPedersen/Lottotal)
-* [Mars Tornado](https://github.com/MartinMSPedersen/MarsTornado)
 * [noiseR](https://github.com/MartinMSPedersen/noiseR)
 * [OEIS](https://github.com/MartinMSPedersen/OEIS)
 * [Playing Cards](https://github.com/MartinMSPedersen/PlayingCardsR)
 * [Strange Attractors](https://github.com/MartinMSPedersen/StrangeAttractors)
-* [Take 1](https://github.com/MartinMSPedersen/take1)
 
 #### **My R gists:** ####
 
